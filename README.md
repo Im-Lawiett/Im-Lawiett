@@ -14,6 +14,8 @@
 const RianModss = {
   nama       : "Rian",
   alias      : "RianModss",
+  github     : "Im-Lawiett",
+  telegram   : "@RianModss",
   lokasi     : "🇮🇩 Indonesia",
   keahlian   : ["Frontend", "Backend", "Scripting", "Automation"],
   sedangBelajar: ["DevOps", "Machine Learning", "Web3"],
@@ -66,20 +68,20 @@ const RianModss = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RianModss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianModss&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Im-Lawiett&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Lawiett&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=RianModss&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=FF6B6B&fire=FF6B6B&currStreakLabel=00D4FF" width="50%"/>
+<img src="https://streak-stats.demolab.com?user=Im-Lawiett&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=FF6B6B&fire=FF6B6B&currStreakLabel=00D4FF" width="50%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RianModss&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=FF6B6B&point=FFFFFF" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Im-Lawiett&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=FF6B6B&point=FFFFFF" width="100%"/>
 
 </div>
 
@@ -89,7 +91,7 @@ const RianModss = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=RianModss&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Im-Lawiett&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
 
 </div>
 
@@ -100,9 +102,9 @@ const RianModss = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RianModss/RianModss/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RianModss/RianModss/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RianModss/RianModss/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Im-Lawiett/Im-Lawiett/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Im-Lawiett/Im-Lawiett/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Im-Lawiett/Im-Lawiett/output/github-snake.svg" />
 </picture>
 
 </div>
@@ -127,8 +129,8 @@ const RianModss = {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-RianModss-181717?style=for-the-badge&logo=github)](https://github.com/RianModss)
-[![Instagram](https://img.shields.io/badge/Instagram-@RianModss-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/RianModss)
+[![GitHub](https://img.shields.io/badge/GitHub-Im--Lawiett-181717?style=for-the-badge&logo=github)](https://github.com/Im-Lawiett)
+[![Telegram](https://img.shields.io/badge/Telegram-@RianModss-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RianModss)
 
 </div>
 
@@ -136,7 +138,7 @@ const RianModss = {
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=RianModss&label=Profile+Views&color=00D4FF&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Im-Lawiett&label=Profile+Views&color=00D4FF&style=for-the-badge" alt="Profile Views"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
