@@ -6,41 +6,37 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/xT77Y1T0zY1We2mOyc/giphy.gif" width="300px" style="border-radius: 10px;"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&pause=800&color=FF0000&center=true&vCenter=true&width=650&lines=「+I'll+take+a+potato+chip...+and+CODE+it+」;Kalau+gw+nulis+code%2C+bug+yang+mati+bukan+gw;JavaScript+%26+Python+adalah+senjata+gw;Gw+bukan+programmer+biasa+—+gw+adalah+yang+terbaik;The+real+world+is+just+one+big+codebase" alt="Typing SVG" />
+<a href="https://github.com/Im-Lawiett">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=20&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&width=650&lines=「+I'll+take+a+potato+chip...+and+CODE+it+」;Kalau+gw+nulis+code%2C+bug+yang+mati+bukan+gw;JavaScript+%26+Python+adalah+senjata+gw;Gw+bukan+programmer+biasa+—+gw+adalah+yang+terbaik;The+real+world+is+just+one+big+codebase" alt="Typing SVG" />
+</a>
 
 </div>
 
----
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## ☠️ Identitas
+## Identitas
 
 ```python
 class RianModss:
     def __init__(self):
-        self.nama       = "Rian"
-        self.alias      = ["RianModss", "Im-Lawiett", "The Coder"]
-        self.telegram   = "@RianModss"
-        self.github     = "Im-Lawiett"
-        self.lokasi     = "🇮🇩 Indonesia"
-        self.keahlian   = ["Frontend", "Backend", "Scripting", "Automation", "Dark Arts of Debugging"]
-        self.belajar    = ["DevOps", "Machine Learning", "Cybersecurity"]
-        self.musuh      = ["Syntax Error", "Off-by-one bug", "undefined is not a function"]
+        self.nama         = "Rian"
+        self.alias        = ["RianModss", "Im-Lawiett", "The Coder"]
+        self.telegram     = "@RianModss"
+        self.github       = "Im-Lawiett"
+        self.lokasi       = "🇮🇩 Indonesia"
+        self.keahlian     = ["Frontend", "Backend", "Scripting", "Automation"]
+        self.lagi_belajar = ["DevOps", "Machine Learning", "Cybersecurity"]
+        self.musuh        = ["Syntax Error", "Off-by-one bug", "undefined is not a function"]
 
     def filosofi(self):
         return "Code is the only truth. The rest is just runtime."
 
     def sehari_hari(self):
         return {
-            "06:00": "Bangun, buka VSCode",
+            "06:00": "Bangun, langsung buka VSCode",
             "08:00": "Ngoding sambil dengerin musik",
-            "14:00": "Debugging sesuatu yang aneh",
-            "23:00": "Baru nemu bug-nya — ternyata salah titik koma",
+            "14:00": "Debugging sesuatu yang aneh banget",
+            "23:00": "Nemu bug-nya — ternyata salah titik koma doang",
             "03:00": "Finally push ke GitHub 🚀"
         }
 ```
@@ -110,8 +106,8 @@ class RianModss:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Im-Lawiett&show_icons=true&theme=dark&bg_color=0D0D0D&title_color=FF0000&icon_color=FF0000&text_color=ffffff&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Lawiett&layout=compact&langs_count=8&theme=dark&bg_color=0D0D0D&title_color=FF0000&text_color=ffffff&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Im-Lawiett&show_icons=true&theme=dark&bg_color=0D0D0D&title_color=FF0000&icon_color=FF0000&text_color=ffffff&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Lawiett&layout=compact&langs_count=8&theme=dark&bg_color=0D0D0D&title_color=FF0000&text_color=ffffff&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
@@ -140,6 +136,8 @@ class RianModss:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🐍 Kontribusi Gw Dimakan Ular
+
+> ⚠️ Aktifin dulu snake-nya dengan buat file `.github/workflows/snake.yml` di repo ini (instruksi ada di bawah)
 
 <div align="center">
 
@@ -197,13 +195,11 @@ class RianModss:
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Im-Lawiett&label=👁️+Orang+yang+udah+ngintip+profil+gw&color=FF0000&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Im-Lawiett&label=Orang+yang+udah+ngintip+profil+gw&color=FF0000&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
 <div align="center">
-
-<img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="200px"/>
 
 <br/>
 
